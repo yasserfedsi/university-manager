@@ -92,3 +92,6 @@ This is a Python-based University Management System that allows users to manage 
 1. **Run the Script**: Execute the script to start the University Management System.
 2. **Main Menu**: The system will display a menu with options to manage universities, faculties, departments, years, students, and more.
 3. **Follow Prompts**: Follow the on-screen prompts to perform various actions such as creating a university, adding a faculty, setting a director, etc.
+
+## Copyright  
+All rights reserved by Yasser Fedsi. This website is intended for educational purposes only.
